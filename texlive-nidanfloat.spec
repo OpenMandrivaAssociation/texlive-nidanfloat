@@ -1,6 +1,6 @@
 Name:		texlive-nidanfloat
 Version:	48295
-Release:	1
+Release:	2
 Summary:	Bottom placement option for double float in two column mode (nidan-kumi)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nidanfloat
