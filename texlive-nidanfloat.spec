@@ -3,7 +3,7 @@ Version:	48295
 Release:	2
 Summary:	Bottom placement option for double float in two column mode (nidan-kumi)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nidanfloat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nidanfloat
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nidanfloat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nidanfloat.doc.r%{version}.tar.xz
